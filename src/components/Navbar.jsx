@@ -17,10 +17,10 @@ function Navbar() {
         <div className="flex justify-between items-center font-semibold text-lg ">
           <div className="relative group px-20 ">
             <div className="flex justify-center items-center">
-              <a href="Categories" className=" hover:text-gray-300 px-2">
-                Categories
+              <a href="Categories" className=" hover:text-gray-300 px-2 flex items-center ">
+                Categories <Image src={down}className="w-4 h-3 mx-1 hover:text-gray-300" alt="down" />
               </a>{" "}
-              <Image src={down} width={"8px"} alt="down" />
+             
             </div>
             <div className="dropdown-content hidden absolute bg-gray-300 shadow z-10 min-w-40 group-hover:block">
               <a href="Mobiles" className="block py-2 px-4  hover:bg-gray-200">

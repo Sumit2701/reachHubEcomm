@@ -5,8 +5,7 @@ import Hero from "@/components/HeroImage"
 
 export default function Home() {
   return (
-   <div>
- 
+    <div className="text-gray-600 body-font font-poppins"> 
     <Hero/>
     <Main/>
    </div>

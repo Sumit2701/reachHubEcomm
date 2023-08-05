@@ -13,7 +13,7 @@ function Hero() {
 };
 
     return (
-        <div className='bg-white p-4 font-sans justify-center items-center mx-20' style={heroStyle}>
+        <div className='bg-white  font-sans justify-center items-center mx-20' style={heroStyle}>
             <div className="flex justify-start items-center">
                 
                 <div className="w-2/5">
