@@ -38,7 +38,7 @@ function Navbar() {
             Deals
           </a>
           <a href="Whast" className=" hover:text-gray-300 pr-20">
-            What is New
+            Whats New
           </a>
 
           <a href="Deliverry" className=" hover:text-gray-300 pr-10">
