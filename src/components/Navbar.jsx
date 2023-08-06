@@ -11,7 +11,7 @@ function Navbar() {
       <nav className="bg-white flex justify-between items-center mx-20 my-5 font-sans 	">
         <div className="flex items-center   font-bold">
           <div className=" text-lg ">
-            <Image src={logo} className="w-40" alt="" />
+           Sumit Reachhub
           </div>
         </div>
         <div className="flex justify-between items-center font-semibold text-lg ">
